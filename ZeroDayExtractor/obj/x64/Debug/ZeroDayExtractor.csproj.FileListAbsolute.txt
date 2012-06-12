@@ -1,0 +1,6 @@
+E:\Code\ZeroDayExtractor\ZeroDayExtractor\bin\x64\Debug\ZeroDayExtractor.exe
+E:\Code\ZeroDayExtractor\ZeroDayExtractor\bin\x64\Debug\ZeroDayExtractor.pdb
+E:\Code\ZeroDayExtractor\ZeroDayExtractor\bin\x64\Debug\SevenZipSharp.dll
+E:\Code\ZeroDayExtractor\ZeroDayExtractor\obj\x64\Debug\ResolveAssemblyReference.cache
+E:\Code\ZeroDayExtractor\ZeroDayExtractor\obj\x64\Debug\ZeroDayExtractor.exe
+E:\Code\ZeroDayExtractor\ZeroDayExtractor\obj\x64\Debug\ZeroDayExtractor.pdb
